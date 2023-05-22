@@ -1,0 +1,38 @@
+.display-none {
+  display: none;
+}
+
+#lineChart {
+  border: 1px solid red;
+  padding: 1rem;
+}
+
+#pieChart {
+  border: 1px solid black;
+  padding: 1rem;
+  margin-bottom: 3rem;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+}
+
+header {
+  display: flex;
+  padding: 0 3rem 0 3rem;
+  justify-content: space-between;
+  align-items: center;
+  color: lightblue;
+}
+
+.headerCharts {
+  display: flex;
+  justify-content: center;
+}
+
+.headerBtns {
+  border: 1px solid black;
+  border-radius: 1rem;
+  background: none;
+}
