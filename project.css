@@ -38,3 +38,7 @@ header {
   border-radius: 1rem;
   background: none;
 }
+
+.anychart-credits {
+  display: none;
+}
